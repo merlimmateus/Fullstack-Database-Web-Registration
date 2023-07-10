@@ -2,8 +2,8 @@
   {
     "name": "index",
     "path": "/",
-    "component": "/home/lynon/Desktop/Programming/Projects/dataBaseWeb/my_portfolio/dataBaseWebAuthRegistration/appFrontEnd/pages/index.vue",
+    "component": "/home/lynon/projects/Fullstack-Database-Web-Registration/appFrontEnd/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_3fee3e10"
+    "_name": "_3c6013b5"
   }
 ]
